@@ -78,7 +78,7 @@ display_img(closing_image)
 
 ### Display the result of Closing
 
-![alt text](<Screenshot 2025-05-06 090009.png>)
+![alt text](<Screenshot 2025-05-06 085602.png>)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
